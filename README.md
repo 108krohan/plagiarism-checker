@@ -4,4 +4,4 @@ Plagiarism checker compares the performance of 7 supervised classifiers which le
 
 feature_list = ['cosine_similarity', 'euclidean_distance', 'E_jaccard', 'Pearson_Correlation', 'dice', 'manhattan_distance','jaccard_similarity', 'Bray_Curtis_Distance', 'Canberra_Distance','Chebyshev Distance', 'hamming', 'overlap', 'Minkowski Distance']
 
-Update : Add project-report.
+Observations and charts can be found in the report added here.
